@@ -1,4 +1,4 @@
-# Este é um exemplo, que foi alterado
-Neste exemplo não tem nada e mais, apenas aprendendo a usar o Github
-<br> 
-Apenas uma descrição
+# Hello World, my name's Gustavo
+Nesse breve descrição sobre mim vou esrever sobre a minha pessoa.
+Formado em Design Grafico 
+E eu não sou um merda
